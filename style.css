@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    size: 100pt
+}
+.block{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+}
+.profile{
+    border: 10px solid white;
+    width: 100%;
+}
